@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44d71431-c338-408d-86d8-4ddcb870f468" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\tools\maven_jar" />
+        <option name="mavenHome" value="C:/tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectId" id="1hlLwil2XIyEQIUrOruIXuvlc6P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/user-center-0.0.1-SNAPSHOT.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="UserCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.soft1851.usercenter.UserCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44d71431-c338-408d-86d8-4ddcb870f468" name="Default Changelist" comment="" />
+      <created>1600580972917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600580972917</updated>
+      <workItem from="1600580974195" duration="5685000" />
+      <workItem from="1600587530042" duration="4925000" />
+      <workItem from="1600593004699" duration="3631000" />
+      <workItem from="1600597692526" duration="318000" />
+      <workItem from="1600598278447" duration="610000" />
+      <workItem from="1600757396837" duration="2399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600588723946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600588723946" />
+    <state width="1492" height="256" key="GridCell.Tab.0.bottom" timestamp="1600759815133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600759815133" />
+    <state width="1492" height="256" key="GridCell.Tab.0.center" timestamp="1600759815133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600759815133" />
+    <state width="1492" height="256" key="GridCell.Tab.0.left" timestamp="1600759815133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600759815133" />
+    <state width="1492" height="256" key="GridCell.Tab.0.right" timestamp="1600759815133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600759815133" />
+    <state width="1492" height="256" key="GridCell.Tab.1.bottom" timestamp="1600598892298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600598892298" />
+    <state width="1492" height="256" key="GridCell.Tab.1.center" timestamp="1600598892298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600598892298" />
+    <state width="1492" height="256" key="GridCell.Tab.1.left" timestamp="1600598892298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600598892298" />
+    <state width="1492" height="256" key="GridCell.Tab.1.right" timestamp="1600598892298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600598892298" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1600587667881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1600587667881" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1600590440392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600590440392" />
+    <state x="410" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600586679777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1600586679777" />
+    <state x="178" y="0" key="new project wizard" timestamp="1600759672785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1600759672785" />
+  </component>
+</project>
